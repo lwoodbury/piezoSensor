@@ -1,0 +1,1 @@
+!(/piezoCircuit_bb.png)
