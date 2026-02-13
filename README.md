@@ -1,1 +1,1 @@
-!(/piezoCircuit_bb.png)
+!(piezoCircuit_bb.png)
