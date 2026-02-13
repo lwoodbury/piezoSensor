@@ -1,3 +1,3 @@
-Simple piezo element based impact sensor 
+##Simple piezo element based impact sensor 
 ![](piezoCircuit_bb.png)
 
